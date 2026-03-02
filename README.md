@@ -20,9 +20,9 @@
 
 ## 📊 GitHub Stats
 
-![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeewarmcoder&show_icons=true&theme=tokyonight)
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeewarmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeewarmcoder&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeewarmcoder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
