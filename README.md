@@ -85,7 +85,7 @@ me.say_hi()
 | [🧠 GPT-2 Finetuner](https://github.com/lukeewarmcoder/gpt2-finetuner) | Lightweight GPT-2 fine-tuning pipeline | Python, PyTorch, HuggingFace |
 | [🎰 Multiplayer Slot Machine](https://github.com/lukeewarmcoder/multiplayer-slot-machine) | Casino-style game with WebSockets & leaderboard | JavaScript, WebSockets |
 | [💰 Budget Tracker](https://github.com/lukeewarmcoder/monthly_budget_traker) | Daily budget tracking app | TypeScript |
-| [🌐 Portfolio](https://github.com/lukeewarmcoder/portfolio6) | Personal portfolio website with AOS animations | HTML, CSS, JS |
+| [🌐 Portfolio](https://github.com/lukeewarmcoder/portfolio) | Personal portfolio website with AOS animations | HTML, CSS, JS |
 
 </div>
 
