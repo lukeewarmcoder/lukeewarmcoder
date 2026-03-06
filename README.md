@@ -1,52 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ayushman Dixit</h1>
-<h3 align="center">AI Enthusiast | Python Developer | Building Jarvis 🤖</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayushman+Dixit;AI+Enthusiast+%7C+Python+Developer;Building+Jarvis+%F0%9F%A4%96;Always+Learning+%26+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lukeewarmcoder&color=6E40C9&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/lukeewarmcoder?label=Followers&style=flat-square&color=6E40C9)](https://github.com/lukeewarmcoder)
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 BTech Student
-- 🧠 Interested in AI, Automation & System Design
-- 🤖 Building my personal AI assistant "Jarvis"
-- 💡 Always learning & shipping projects
+
+```python
+class Ayushman:
+    def __init__(self):
+        self.name       = "Ayushman Dixit"
+        self.role       = "BTech Student & AI Developer"
+        self.location   = "India 🇮🇳"
+        self.passion    = ["AI", "Automation", "System Design"]
+        self.current    = "Building my personal AI assistant — Jarvis 🤖"
+        self.learning   = ["DSA", "LLMs", "Full Stack Dev"]
+        self.fun_fact   = "I want to build a real-life J.A.R.V.I.S. before I graduate"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = Ayushman()
+me.say_hi()
+```
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
-</p>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+
+**Frontend & Tools**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,git,github,vscode,linux" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeewarmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeewarmcoder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=lukeewarmcoder&theme=tokyonight&hide_border=true&border_radius=8)
+
+<br/>
+
+![Ayushman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeewarmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=8)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeewarmcoder&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+
+<br/>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukeewarmcoder&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤖 Featured Projects
+
+<div align="center">
+
+[![Jarvis AI](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=Jarvis&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/Jarvis)
+[![GPT-2 Finetuner](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=gpt2-finetuner&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/gpt2-finetuner)
+
+[![Multiplayer Slot Machine](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=multiplayer-slot-machine&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/multiplayer-slot-machine)
+[![Monthly Budget Tracker](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=monthly_budget_traker&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/monthly_budget_traker)
+
+</div>
 
 ---
 
 ## 📌 Current Focus
-- 🔥 Improving DSA
-- 🤖 Advancing Jarvis AI System
-- 🌐 Building Full Stack Projects
+
+| 🎯 Goal | 📈 Status |
+|--------|----------|
+| 🔥 Improving DSA | In Progress |
+| 🤖 Advancing Jarvis AI System | Active Development |
+| 🌐 Building Full Stack Projects | Exploring |
+| 🧠 Studying LLMs & Fine-tuning | Learning |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lukeewarmcoder&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ayushman-dixit-a486512b6
 
-<!--
-**lukeewarmcoder/lukeewarmcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushman%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-dixit-a486512b6)
+[![GitHub](https://img.shields.io/badge/GitHub-lukeewarmcoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukeewarmcoder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."* 🚀
+
+⭐ If you like my work, consider starring some repos!
+
+</div>
