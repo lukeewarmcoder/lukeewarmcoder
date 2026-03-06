@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayushman+Dixit;AI+Enthusiast+%7C+Python+Developer;Building+Jarvis+%F0%9F%A4%96;Always+Learning+%26+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+# Hi 👋, I'm Ayushman Dixit
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Python+Developer;Building+Jarvis+%F0%9F%A4%96;Always+Learning+%26+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -61,13 +63,13 @@ me.say_hi()
 
 <br/>
 
-![Ayushman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeewarmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=8)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeewarmcoder&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukeewarmcoder&theme=tokyonight)
 
 <br/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukeewarmcoder&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukeewarmcoder&theme=tokyonight)
+&nbsp;
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukeewarmcoder&theme=tokyonight)
 
 </div>
 
@@ -77,11 +79,13 @@ me.say_hi()
 
 <div align="center">
 
-[![Jarvis AI](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=Jarvis&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/Jarvis)
-[![GPT-2 Finetuner](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=gpt2-finetuner&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/gpt2-finetuner)
-
-[![Multiplayer Slot Machine](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=multiplayer-slot-machine&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/multiplayer-slot-machine)
-[![Monthly Budget Tracker](https://github-readme-stats.vercel.app/api/pin/?username=lukeewarmcoder&repo=monthly_budget_traker&theme=tokyonight&hide_border=true)](https://github.com/lukeewarmcoder/monthly_budget_traker)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤖 Personal Assistant (Jarvis)](https://github.com/lukeewarmcoder/personal-assistant) | My personal AI assistant — the flagship project | Python, LLMs |
+| [🧠 GPT-2 Finetuner](https://github.com/lukeewarmcoder/gpt2-finetuner) | Lightweight GPT-2 fine-tuning pipeline | Python, PyTorch, HuggingFace |
+| [🎰 Multiplayer Slot Machine](https://github.com/lukeewarmcoder/multiplayer-slot-machine) | Casino-style game with WebSockets & leaderboard | JavaScript, WebSockets |
+| [💰 Budget Tracker](https://github.com/lukeewarmcoder/monthly_budget_traker) | Daily budget tracking app | TypeScript |
+| [🌐 Portfolio](https://github.com/lukeewarmcoder/portfolio6) | Personal portfolio website with AOS animations | HTML, CSS, JS |
 
 </div>
 
@@ -98,11 +102,11 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=lukeewarmcoder&theme=tokyonight&no-frame=true&row=1&column=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukeewarmcoder&theme=tokyo-night&hide_border=true&radius=8)
 
 </div>
 
